@@ -1,0 +1,15 @@
+{
+	"extends": "airbnb-base",
+	"parser": "babel-eslint",
+	"rules": {
+		"brace-style": ["error", "stroustrup"],
+		"indent": ["error", "tab", { "SwitchCase": 1 }],
+		"space-before-function-paren": 0,
+		"no-constant-condition": 0,
+		"no-use-before-define": 0,
+		"no-console": 0,
+		"no-tabs": 0,
+		"no-param-reassign": ["error", { "props": false }],
+		"import/no-unresolved": 0
+	}
+}

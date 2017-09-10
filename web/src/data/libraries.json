@@ -1,0 +1,403 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-09-09T15:31:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47469174",
+        "amenity": "library",
+        "building": "commercial",
+        "name": "Forum Bibliotheek",
+        "ref:bag": "14100010916148",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "start_date": "1992",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5644253,
+              53.2189606
+            ],
+            [
+              6.5643958,
+              53.218993
+            ],
+            [
+              6.5643511,
+              53.2190499
+            ],
+            [
+              6.564282,
+              53.2190276
+            ],
+            [
+              6.5642461,
+              53.2190669
+            ],
+            [
+              6.5642246,
+              53.2190905
+            ],
+            [
+              6.5641731,
+              53.2191475
+            ],
+            [
+              6.5638236,
+              53.2190369
+            ],
+            [
+              6.5637614,
+              53.2190174
+            ],
+            [
+              6.5640055,
+              53.2186512
+            ],
+            [
+              6.5645567,
+              53.2188104
+            ],
+            [
+              6.5645189,
+              53.2188562
+            ],
+            [
+              6.5644701,
+              53.2189106
+            ],
+            [
+              6.5644253,
+              53.2189606
+            ]
+          ]
+        ]
+      },
+      "id": "way/47469174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/270163863",
+        "alt_name": "UB",
+        "amenity": "library",
+        "building": "university",
+        "building:levels": "4",
+        "int_name": "University Library",
+        "layer": "1",
+        "name": "Universiteitsbibliotheek",
+        "name:en": "University Library",
+        "operator": "Rijksuniversiteit Groningen",
+        "ref:bag": "14100010917719",
+        "source": "3dShapes",
+        "source:date": "2014-03-24",
+        "start_date": "1985",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5638074,
+              53.2186124
+            ],
+            [
+              6.563706,
+              53.2187567
+            ],
+            [
+              6.5637089,
+              53.2187575
+            ],
+            [
+              6.5637084,
+              53.2187583
+            ],
+            [
+              6.56378,
+              53.2187765
+            ],
+            [
+              6.5636708,
+              53.2189316
+            ],
+            [
+              6.5636947,
+              53.2189376
+            ],
+            [
+              6.5636287,
+              53.2190319
+            ],
+            [
+              6.5636046,
+              53.2190257
+            ],
+            [
+              6.5635555,
+              53.2190952
+            ],
+            [
+              6.56269,
+              53.2188753
+            ],
+            [
+              6.5626956,
+              53.2188667
+            ],
+            [
+              6.5625901,
+              53.2188314
+            ],
+            [
+              6.5625897,
+              53.2188324
+            ],
+            [
+              6.5625677,
+              53.218825
+            ],
+            [
+              6.5625683,
+              53.2188241
+            ],
+            [
+              6.5626673,
+              53.2186914
+            ],
+            [
+              6.5625895,
+              53.2186661
+            ],
+            [
+              6.56275,
+              53.2184884
+            ],
+            [
+              6.5629743,
+              53.2185485
+            ],
+            [
+              6.5629599,
+              53.2185689
+            ],
+            [
+              6.5633606,
+              53.2186705
+            ],
+            [
+              6.5634624,
+              53.2185251
+            ],
+            [
+              6.5638074,
+              53.2186124
+            ]
+          ]
+        ]
+      },
+      "id": "way/270163863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685822610",
+        "amenity": "library",
+        "name": "Groninger Archieven",
+        "office": "government",
+        "url": "https://www.groningerarchieven.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5606836,
+          53.2118136
+        ]
+      },
+      "id": "node/685822610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319228503",
+        "addr:city": "Haren Gn",
+        "addr:housenumber": "3",
+        "addr:postcode": "9751AS",
+        "addr:street": "Brinkhorst",
+        "amenity": "library",
+        "name": "Bibliotheek Haren",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.605538,
+          53.1732298
+        ]
+      },
+      "id": "node/1319228503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1585767674",
+        "amenity": "library",
+        "name": "Openbare Bibliotheek Eelde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5685585,
+          53.1377414
+        ]
+      },
+      "id": "node/1585767674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1865659931",
+        "amenity": "library",
+        "name": "OB Groningen filiaal Hoogkerk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5033773,
+          53.2056575
+        ]
+      },
+      "id": "node/1865659931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2003107233",
+        "amenity": "library",
+        "name": "Bibliotheek Zuidhorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4033804,
+          53.2445961
+        ]
+      },
+      "id": "node/2003107233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2661667962",
+        "addr:city": "Ten Boer",
+        "addr:street": "Koopmansplein",
+        "amenity": "library",
+        "name": "Bibliotheek en VVV",
+        "website": "http://www.mijneigenbibliotheek.nl/tenboer/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.696223,
+          53.2766305
+        ]
+      },
+      "id": "node/2661667962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2744246917",
+        "addr:city": "Groningen",
+        "addr:housenumber": "42",
+        "addr:postcode": "9736MA",
+        "addr:street": "Ypemaheerd",
+        "amenity": "library",
+        "name": "Groninger Forum Beijum | Bibliotheek",
+        "opening_hours": "Mo-Fr 14:00-18:00",
+        "phone": "+31 50 5414877",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.groningerforum.nl/informatie/openingstijden-adres/locatie-beijum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6008124,
+          53.2491097
+        ]
+      },
+      "id": "node/2744246917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3936126916",
+        "amenity": "library",
+        "name": "Forum Bibliotheek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.548692,
+          53.2314436
+        ]
+      },
+      "id": "node/3936126916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3936126925",
+        "amenity": "library",
+        "level": "2",
+        "name": "UB Zernike",
+        "operator": "University of Groningen",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5342308,
+          53.2395984
+        ]
+      },
+      "id": "node/3936126925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4246048964",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "4",
+        "name": "Centrale Medische Bibliotheek",
+        "name:en": "Central Medical Library",
+        "opening_hours": "Mo-Th 08:30-21:30 Fr 08:30-18:00 Sa-Su 10:00-18:00",
+        "operator": "Rijksuniversiteit Groningen",
+        "phone": "050-361 6200",
+        "url": "http://www.rug.nl/bibliotheek/services/bibcmb/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5756144,
+          53.2225125
+        ]
+      },
+      "id": "node/4246048964"
+    }
+  ]
+}

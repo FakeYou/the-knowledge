@@ -1,0 +1,28 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@turf/simplify": "^4.6.0",
+    "@turf/transform-scale": "^4.6.1",
+    "axios": "^0.16.2",
+    "dotenv": "^4.0.0",
+    "lodash": "^4.17.4",
+    "mapbox-gl": "^0.39.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-mapbox-gl": "^2.4.0",
+    "styled-components": "^2.1.2",
+    "styled-props": "^1.1.0",
+    "turf": "^3.0.14"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
