@@ -20,7 +20,8 @@
     "lodash": "^4.17.4",
     "mongodb": "^2.2.31",
     "morgan": "^1.8.2",
-    "query-overpass": "^1.5.1"
+    "query-overpass": "^1.5.1",
+    "turf": "^3.0.14"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
